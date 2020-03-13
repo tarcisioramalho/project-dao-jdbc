@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="086e6c10-1586-4536-8350-67021a66b068" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/model/entities/Seller.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +72,7 @@
       <option name="presentableId" value="Default" />
       <updated>1584016297495</updated>
       <workItem from="1584016301421" duration="4209000" />
-      <workItem from="1584096809449" duration="4077000" />
+      <workItem from="1584096809449" duration="4372000" />
     </task>
     <task id="LOCAL-00001" summary="Project update">
       <created>1584098638004</created>
