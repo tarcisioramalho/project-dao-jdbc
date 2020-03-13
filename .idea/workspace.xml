@@ -84,6 +84,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="0" y="181" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584016519284" />
+    <state x="76" y="118" key="CommitChangelistDialog2" timestamp="1584098636828">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="76" y="118" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1584098636828" />
     <state x="282" y="272" key="FileChooserDialogImpl" timestamp="1584026228436">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -108,5 +112,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="56" y="105" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1584016701057" />
+    <state x="79" y="256" key="Vcs.Push.Dialog.v2" timestamp="1584098642840">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="79" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1584098642840" />
   </component>
 </project>
