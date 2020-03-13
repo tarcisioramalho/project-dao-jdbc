@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="086e6c10-1586-4536-8350-67021a66b068" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/model/dao/DepartmentDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/dao/SellerDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/dao/impl/SellerDaoJDBC.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -14,8 +13,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -75,7 +74,7 @@
       <option name="presentableId" value="Default" />
       <updated>1584016297495</updated>
       <workItem from="1584016301421" duration="4209000" />
-      <workItem from="1584096809449" duration="5681000" />
+      <workItem from="1584096809449" duration="6283000" />
     </task>
     <task id="LOCAL-00001" summary="Project update">
       <created>1584098638004</created>
@@ -99,10 +98,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="0" y="181" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584016519284" />
-    <state x="292" y="239" key="#com.intellij.ide.util.MemberChooser" timestamp="1584101246348">
+    <state x="292" y="239" key="#com.intellij.ide.util.MemberChooser" timestamp="1584103353837">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="292" y="239" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1584101246348" />
+    <state x="292" y="239" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1584103353837" />
     <state x="76" y="118" key="CommitChangelistDialog2" timestamp="1584098636828">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
